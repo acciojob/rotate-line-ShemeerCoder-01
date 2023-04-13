@@ -1,5 +1,6 @@
 /*  your css code here. If applicable */
 #line{
+	position:absolute;
 	width:200px;
 	height:2px;
 	background:black;
